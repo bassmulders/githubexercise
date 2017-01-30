@@ -4,9 +4,12 @@ public class App {
 		doStuff();
 	}
 	private static void doStuff() {
-		System.out.println("App.doStuff called by featureZ");
+		System.out.println("App.doStuff called by featureY or Z");
 	}
 	private static void featureZ() {
+		doStuff();
+	}
+	private static void featureY() {
 		doStuff();
 	}
 }
