@@ -6,4 +6,7 @@ public class App {
 	private static void doStuff() {
 		System.out.println("App.doStuff");
 	}
+	private static void featureZ() {
+		doStuff();
+	}
 }
