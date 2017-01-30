@@ -4,7 +4,7 @@ public class App {
 		doStuff();
 	}
 	private static void doStuff() {
-		System.out.println("App.doStuff");
+		System.out.println("App.doStuff called by featureZ");
 	}
 	private static void featureZ() {
 		doStuff();
