@@ -3,6 +3,7 @@ public class App {
 		System.out.println("App.main");
 		//doStuff();
 	}
+  
 	private static void doStuff(String caller) {
 		System.out.println("App.doStuff: " + caller);
 	}
