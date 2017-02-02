@@ -1,17 +1,9 @@
 public class App {
 	public static void main(String args[]) {
 		System.out.println("App.main");
-		doStuff("main");
+		doStuff();
 	}
-	private static void doStuff(String caller) {
-		System.out.println("App.doStuff called by: " + caller);
-	}
-	
-	private void featureY() {
-		doStuff("featureY");
-	}
-
-	private void featureZ() {
-		doStuff("featureZ");
+	private static void doStuff() {
+		System.out.println("App.doStuff");
 	}
 }

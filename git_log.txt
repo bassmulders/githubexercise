@@ -1,0 +1,119 @@
+commit 615f8ec558360e85043fc4d2bf607c211589ca6c
+Merge: 8ccd642 d6957af
+Author: bassmulders <bassmulders@users.noreply.github.com>
+Date:   Thu Feb 2 13:00:30 2017 +0100
+
+    Merge pull request #5 from bassmulders/featureY
+    
+    Add featureY
+
+commit d6957af54d2236281de55d5192274a385e160cc7
+Merge: 6f8e8bd 8ccd642
+Author: bassmulders <bassmulders@users.noreply.github.com>
+Date:   Thu Feb 2 13:00:11 2017 +0100
+
+    Merge branch 'develop' into featureY
+
+commit 8ccd642bf43f03c4b976218aeec29e3ba0049013
+Merge: fca70a7 008a395
+Author: bassmulders <bassmulders@users.noreply.github.com>
+Date:   Thu Feb 2 12:53:42 2017 +0100
+
+    Merge pull request #4 from bassmulders/featureZ
+    
+    Add featureZ
+
+commit 008a3954f2b5d8bea6012ff78a4c86bde3d3e18b
+Merge: 8f9555d fca70a7
+Author: bassmulders <bassmulders@users.noreply.github.com>
+Date:   Thu Feb 2 12:53:36 2017 +0100
+
+    Merge branch 'develop' into featureZ
+
+commit 6f8e8bd8820e9442b2acf4045f40c9ffc3744b76
+Author: Bas Smulders <bas.smulders@gmail.com>
+Date:   Thu Feb 2 12:51:16 2017 +0100
+
+    Add featureY
+
+commit 8f9555d2449be6527631566397081eb11756deab
+Author: Bas Smulders <bas.smulders@gmail.com>
+Date:   Thu Feb 2 11:59:23 2017 +0100
+
+    Add featureZ
+
+commit fca70a753d3430522fe4adf1c539cc7c9d6f701e
+Merge: 1625954 5038608
+Author: bassmulders <bassmulders@users.noreply.github.com>
+Date:   Mon Jan 30 15:29:25 2017 +0100
+
+    Merge pull request #3 from bassmulders/featureZ
+    
+    Feature z
+
+commit 5038608c1e81bded6283a299a374f5015ef24da9
+Merge: 5f68e36 1625954
+Author: bassmulders <bassmulders@users.noreply.github.com>
+Date:   Mon Jan 30 15:27:36 2017 +0100
+
+    Merge branch 'develop' into featureZ
+
+commit 1625954106a8398c88145df05fc7c5ae6d9e00e6
+Merge: 335f799 87d1716
+Author: bassmulders <bassmulders@users.noreply.github.com>
+Date:   Mon Jan 30 14:57:56 2017 +0100
+
+    Merge pull request #2 from bassmulders/featureY
+    
+    Add method featureY()
+
+commit 5f68e36781db2d4bd34d8ba48ba4929b7b3a9bc2
+Author: Bas Smulders <bas.smulders@gmail.com>
+Date:   Mon Jan 30 14:47:33 2017 +0100
+
+    Change doStuff to work with featureZ
+
+commit 87d1716e3f5bfea6744b0db172e88dc95617b47b
+Author: Bas Smulders <bas.smulders@gmail.com>
+Date:   Mon Jan 30 14:46:39 2017 +0100
+
+    Add method featureY()
+
+commit d5dd373e15a9f71cc2e659009ed08a27c1c0c10f
+Author: Bas Smulders <bas.smulders@gmail.com>
+Date:   Mon Jan 30 14:42:09 2017 +0100
+
+    Add method featureZ()
+
+commit 335f799f0e44cc321da93215354f57f80fe4ca28
+Merge: 378d383 675906d
+Author: bassmulders <bassmulders@users.noreply.github.com>
+Date:   Wed Jan 25 13:46:11 2017 +0100
+
+    Merge pull request #1 from bassmulders/featureX
+    
+    Add method doStuff
+
+commit 675906d1b73f067c6a8a30cfe12fa2e3921787aa
+Author: bassmulders <bassmulders@users.noreply.github.com>
+Date:   Wed Jan 25 13:40:06 2017 +0100
+
+    Remove 1
+
+commit 8d7c82f596963bc7ef71a4fb34675bdcde899d49
+Author: Bas Smulders <bas.smulders@gmail.com>
+Date:   Wed Jan 25 12:38:10 2017 +0100
+
+    Add method doStuff
+
+commit 378d383b385fefd9878fd780d63c88db014915f5
+Author: Bas Smulders <bas.smulders@gmail.com>
+Date:   Wed Jan 25 12:18:05 2017 +0100
+
+    Change comment
+
+commit 8b7b39d75354334ec3361d225af8c028d956cf1c
+Author: Bas Smulders <bas.smulders@gmail.com>
+Date:   Wed Jan 25 12:00:43 2017 +0100
+
+    Initial commit
