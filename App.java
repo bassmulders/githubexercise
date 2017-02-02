@@ -10,4 +10,8 @@ public class App {
 	private void featureY() {
 		doStuff("featureY");
 	}
+
+	private void featureZ() {
+		doStuff("featureZ");
+	}
 }
